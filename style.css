@@ -1,0 +1,41 @@
+ body {
+        background-color: #7da3c9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: sans-serif;
+      }
+
+      .card {
+        background: rgb(127, 67, 67);
+        padding: 80px;
+        border-radius: 18px;
+        text-align: center;
+        box-shadow: 0 8px 27px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        color: #d6dde4;
+        margin-bottom: 12px;
+      }
+
+      p {
+        color: #a60d0d;
+      }
+
+      button {
+        margin-top: 20px;
+        padding: 10px 24px;
+        background-color: #1fc754;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+
+      button:hover {
+        background-color: #2980b9;
+      }
