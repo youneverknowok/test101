@@ -9,7 +9,7 @@
       }
 
       .card {
-        background: rgb(127, 67, 67);
+        background: rgb(206, 196, 196);
         padding: 80px;
         border-radius: 18px;
         text-align: center;
@@ -22,13 +22,13 @@
       }
 
       p {
-        color: #a60d0d;
+        color: #0da69e;
       }
 
       button {
         margin-top: 20px;
         padding: 10px 24px;
-        background-color: #1fc754;
+        background-color: #511fc7;
         color: white;
         border: none;
         border-radius: 6px;
